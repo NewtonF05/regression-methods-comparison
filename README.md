@@ -36,7 +36,7 @@ The script outputs:
 - Coefficient tables formatted with `tabulate` for clean stdout output
 - Theoretical drag-model overlay for visual comparison against fitted lines
 
-[Add a screenshot of the FacetGrid or comparison plot here.]
+![Fall time vs drop height for iron and polycarbonate spheres at identical radius, with the analytic quadratic-drag prediction (red dashed) overlaid in each panel](figures/regression_lead.png)
 
 ## How to Run
 
